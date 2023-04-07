@@ -1,0 +1,19 @@
+.odd-element {
+    background-color: pink;
+    font-family: "Verdana", sans-serif;
+}
+
+.large-font {
+    font-size: 24px;
+}
+
+#id-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
